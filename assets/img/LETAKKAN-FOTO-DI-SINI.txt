@@ -1,0 +1,2 @@
+Foto yang dipakai: profil.jpg dan galeri-1.jpg sampai galeri-7.jpg
+Ganti file dengan nama yang sama untuk memperbarui foto.
